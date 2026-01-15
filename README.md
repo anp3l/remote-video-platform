@@ -212,7 +212,7 @@ Decoupling identity management from business logic allows:
     
 - **Multi-Service Support:** Same Auth Server can serve multiple resource servers
     
-- **Industry Standard:** Aligns with OAuth 2.0 / OpenID Connect patterns
+- **Industry Standard:** Uses the same cryptographic approach as OAuth 2.0 / OpenID Connect
     
 
 ---
