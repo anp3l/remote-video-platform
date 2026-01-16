@@ -4,7 +4,7 @@
 [![Docker](https://img.shields.io/badge/Docker-Supported-2496ED?logo=docker&logoColor=white)](#-quick-start)
 [![Architecture](https://img.shields.io/badge/Architecture-Microservices-success)](#-architecture-overview)
 
-A production-ready **video streaming platform** built with a **decoupled microservices architecture**. Features secure authentication, HLS adaptive streaming, and Docker orchestration.
+A complete **video streaming platform** built with a **decoupled microservices architecture**. Features secure authentication, HLS adaptive streaming, and Docker orchestration.
 
 ---
 
